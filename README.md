@@ -15,3 +15,8 @@ This tool takes two or more integers (randomly generated or uploaded from a file
 
 **Note:** When the Karatsuba algorithm runs, the recursive tree visualization may extend beyond the visible area. If no result appears, try scrolling horizontally to see the output because it might be rendered off-screen.
 
+## Live Demo
+
+[Click here to view the live project](https://sabinarasheed.github.io/Karatsuba-Algorithm-Visualization/)
+
+
