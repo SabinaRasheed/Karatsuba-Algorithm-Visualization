@@ -3,14 +3,17 @@ git checkout -b PR-file
 This creates and switches to a new branch called PR-file.
 
 Step 2: Make Changes
- //do anytihng you want like edit readme.md file or whatever
+do anything you want, like editthe  readme.md file or whatever
 
 Step 3: Add, Commit & Push the Branch 
 
 Step 4: Open a Pull Request on GitHub
   Go to your GitHub repository on the browser.
-  click "Compare & pull request" button
+  Click the "Compare & pull request" button
   Add a title like: Improve README with screenshot section
   Click Create pull request
 
 Step 5: Merge the PR
+Scroll down and click Merge pull request
+Click Confirm merge
+Delete the branch afterwards (Optional) 
