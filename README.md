@@ -13,5 +13,5 @@ This tool takes two or more integers (randomly generated or uploaded from a file
 - Recursive tree visualization
 - Zoom controls (In, Out, Reset)
 
-**Note:** When the Karatsuba algorithm runs, the recursive tree visualization may extend beyond the visible area. If no result appears, try scrolling horizontally — the output might be rendered off-screen.
+**Note:** When the Karatsuba algorithm runs, the recursive tree visualization may extend beyond the visible area. If no result appears, try scrolling horizontally to see the output because it might be rendered off-screen.
 
